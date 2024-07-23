@@ -1,4 +1,4 @@
-# instagram_clone
+# Art_Gallery
 
 A new Flutter project.
 
